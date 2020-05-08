@@ -1,0 +1,5 @@
+data/CORD-19-research-challenge.zip
+**/.ipynb_checkpoints
+data/*.p
+data/topics.txt
+data/*
