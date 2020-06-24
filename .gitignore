@@ -3,3 +3,7 @@ data/CORD-19-research-challenge.zip
 data/*.p
 data/topics.txt
 data/*
+.DS_Store
+.idea
+tmp.p
+OR/*.p

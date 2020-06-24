@@ -18,6 +18,12 @@ tqdm = "*"
 seaborn = "*"
 bokeh = "*"
 langdetect = "*"
+beautifulsoup4 = "*"
+requests = "*"
+gunicorn = "*"
+plotly = "*"
+flask = "*"
+dash = "*"
 
 [requires]
 python_version = "3.8"
